@@ -1,6 +1,6 @@
 # The Gut Mechanic
 
-A gut health coach built from 20 years of chronic illness and half a million dollars spent finding the way out. Drop this folder into a Claude project. Claude becomes your coach.
+A gut health coach built from 20 years of chronic illness and half a million dollars spent finding the way out. It is also trained on the GAPS protocol and Deep Detoxing methods beyond the GAPS protocol. Drop this folder into a Claude project. Claude becomes your coach.
 
 ## Quick Setup
 
