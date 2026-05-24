@@ -62,9 +62,9 @@ reference/
 
 ## Links
 
-- **Community:** [Skool link TBD]
-- **Website:** [Site link TBD]
-- **GitHub:** [Repo link TBD]
+- **Community:** https://www.skool.com/the-gut-mechanic-8408
+- **Website:** https://gut-mechanic-sparkles-inc.vercel.app
+- **Instagram:** https://www.instagram.com/gut.mechanic/
 
 ## Philosophy
 
